@@ -1,14 +1,15 @@
-#Denis Bulyha
-##Contacts:
+# Denis Bulyha
+
+## Contacts:
 * Email: felon_91@mail.ru
 * Telegram: @felon91
 * Skype: felon_91
 * Address: Belarus, Minsk
 
-##Summary
+## Summary
 Every day to gain new knowledge and improve
 
-##Skills
+## Skills
 * HTML, CSS
 * JavaScript
 * VueJS
@@ -16,7 +17,7 @@ Every day to gain new knowledge and improve
 * Gulp, Webpack
 * BEM
 
-##Code examples
+## Code examples
 
 ```javascript
 function count (string) {
@@ -31,9 +32,9 @@ function count (string) {
 }
 ```
 
-##Experience
+## Experience
 * Freelance 2015 - 2019
 * Infourok.ru started in 2019 up to present
 
-##English
+## English
 A2 Pre-Intermediate
